@@ -64,3 +64,4 @@ No need to install git in linux or termux
 * `sudo bash setup.sh`
 ```
 # HOW TO USE AFTER INSTALLATION:-
+###FIRST YOU NEED AN UNLOCK CODE , FOR THAT JOIN MY GROUP(https://t.me/HacksXploit)
