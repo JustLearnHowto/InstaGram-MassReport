@@ -42,9 +42,9 @@ def find_proxies ():#line:29
 
                     [[black]]Codded By Crevil[[reset]]
 
-                [[red]]Github :- [[blue]]@Crevils[[reset]]
-                [[red]]Youtube :- [[blue]]@Crevil[[reset]]
-                [[red]]Telegram :- [[blue]]@HackerExploits[[reset]] 
+                [[red]]Github :- [[blue]]@HacksXploit[[reset]]
+                [[red]]Youtube :- [[blue]]@HacksXploit[[reset]]
+                [[red]]Telegram :- [[blue]]https://t.me/HacksXploit[[reset]] 
 
 
 [[red]][ 1 ][[reset]] [[green]]HTTPS[[reset]]
