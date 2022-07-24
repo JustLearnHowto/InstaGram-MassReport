@@ -4,6 +4,14 @@ This is a script which reports targeted instagram accounts and instagram videos 
 
 [![forthebadge Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
+<p align="left">
+  <a href="">
+    <img src="Annotation 2022-07-24 151110" width="500px" style="display: inline-block;">
+  </a>
+</p>
+
+
+
 ## Features
 ```bash
 This is a script which reports targeted instagram account or an instagram video. 
