@@ -2,7 +2,7 @@
 This is a script which reports targeted instagram accounts and instagram videos in bulk.
 
 ### This tool is only for educational purpose 
-#### FOR TUTORIAL SCROLL DOWN
+#### [FOR TUTORIAL CLICK HERE](https://github.com/HacksXploit/InstaGram-MassReport/blob/main/README.md#how-to-use-after-installation-)
 
 
 [![forthebadge Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
