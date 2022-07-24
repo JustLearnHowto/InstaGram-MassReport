@@ -6,7 +6,7 @@ This is a script which reports targeted instagram accounts and instagram videos 
 
 <p align="left">
   <a href="">
-    <img src="Annotation 2022-07-24 151110" width="500px" style="display: inline-block;">
+    <img src="[1](https://github.com/HacksXploit/InstaGram-MassReport/blob/main/assets/1.gif?raw=true)" width="500px" style="display: inline-block;">
   </a>
 </p>
 
