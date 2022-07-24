@@ -68,6 +68,7 @@ No need to install git in linux or termux
 ```
 # HOW TO USE AFTER INSTALLATION:-
 ### FIRST YOU NEED AN UNLOCK CODE , FOR THAT JOIN MY [GROUP](https://t.me/HacksXploit)
+#### TO GET UNLOCK CODE SEND #insta-code IN THE GROUP ABOVE
 ![2](https://github.com/HacksXploit/InstaGram-MassReport/blob/main/assets/3.gif?raw=true)
 
 ### LOGIN ANY FAKE INSTA ACCOUNT 
