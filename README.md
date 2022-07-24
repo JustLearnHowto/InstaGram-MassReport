@@ -64,4 +64,20 @@ No need to install git in linux or termux
 * `sudo bash setup.sh`
 ```
 # HOW TO USE AFTER INSTALLATION:-
-###FIRST YOU NEED AN UNLOCK CODE , FOR THAT JOIN MY GROUP(https://t.me/HacksXploit)
+### FIRST YOU NEED AN UNLOCK CODE , FOR THAT JOIN MY [GROUP](https://t.me/HacksXploit)
+![2](https://github.com/HacksXploit/InstaGram-MassReport/blob/main/assets/3.gif?raw=true)
+
+### LOGIN ANY FAKE INSTA ACCOUNT 
+![3](https://github.com/HacksXploit/InstaGram-MassReport/blob/main/assets/4.gif?raw=true)
+
+### SELECT PROXIES AND INSTAGRAM ACCOUNT OR VIDEO TO REPORT
+![6](https://github.com/HacksXploit/InstaGram-MassReport/blob/main/assets/6.gif?raw=true)
+
+### NOW SELECT REPORT ACCOUNT AND YOU ARE GOOD TO GO
+![7](https://github.com/HacksXploit/InstaGram-MassReport/blob/main/assets/7.gif?raw=true)
+
+
+# Warning:
+####  This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
+#### Credits:- Crevils
+
