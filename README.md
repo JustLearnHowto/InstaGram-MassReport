@@ -4,11 +4,7 @@ This is a script which reports targeted instagram accounts and instagram videos 
 
 [![forthebadge Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-<p align="left">
-  <a href="">
-    <img src="[1](https://github.com/HacksXploit/InstaGram-MassReport/blob/main/assets/1.gif?raw=true)" width="500px" style="display: inline-block;">
-  </a>
-</p>
+![1](https://github.com/HacksXploit/InstaGram-MassReport/blob/main/assets/1.gif?raw=true)
 
 
 
